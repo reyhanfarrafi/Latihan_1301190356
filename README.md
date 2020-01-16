@@ -1,3 +1,3 @@
 # Latihan_1301190356
 
-Test Struktur Data 1
+Test Struktur Data
